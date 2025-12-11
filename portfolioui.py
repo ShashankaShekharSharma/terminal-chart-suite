@@ -1,8 +1,4 @@
-"""
-Terminal Chart Suite — Portfolio Candles (Multi-Stock Support)
-- Generates candlestick charts for all portfolio stocks or single ticker
-- Ring chart is shown in its own column; candlesticks appear only after pressing Generate
-"""
+
 
 import io
 import streamlit as st
